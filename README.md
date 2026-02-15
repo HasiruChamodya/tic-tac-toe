@@ -15,4 +15,4 @@ Because this project uses the `<windows.h>` library for console color manipulati
 
 1. Clone this repository to your local machine:
    ```bash
-   
+   https://github.com/HasiruChamodya/tic-tac-toe.git
